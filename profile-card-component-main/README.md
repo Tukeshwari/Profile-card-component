@@ -1,6 +1,13 @@
 # Frontend Mentor - Profile card component
 
-![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
+# deploy-link
+https://tukeshwari-profile-card-component.netlify.app
+# desktop-view
+![desktop-preview](https://user-images.githubusercontent.com/102142382/223823422-cb7839d2-37b4-45c6-acbe-60abb603f150.jpg)
+
+# mobile-view
+![mobile-design](https://user-images.githubusercontent.com/102142382/223823461-074ba49b-55bb-4362-b158-dda824756559.jpg)
+
 
 ## Welcome! 👋
 
